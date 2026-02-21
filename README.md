@@ -1,0 +1,2 @@
+# ShittyCodeWritten_by_AI
+由非人类想出来的狗屎程序与神秘AI产的代码
